@@ -1,0 +1,977 @@
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\New\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\DeleteStudent.g.cshtml.cs
+C:\Users\barnm7\Desktop\ASPMVC\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\AddStudent.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\AddStudent.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\DeleteStudent.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\AddStudent.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\DeleteStudent.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\AddToEnsemble.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\_11_boi\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\AddToEnsemble.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\master\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Contacts\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\AddStudent.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\LoanError.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnsemblePerformances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instruments\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\DisplayInstruments.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Feedback.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\Repair.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Loans\SelectEnrollment.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\AddToEnsemble.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\DeleteStudent.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\CreatePayroll.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Payrolls\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\People\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performances\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusics\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\SheetMusicTutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Staffs\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Students\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Technicians\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Tutors\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\TutorTypes\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Index.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Complete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Create.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Delete.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Details.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Edit.g.cshtml.cs
+C:\Users\barnm7\Desktop\11111111111111111111111DB3\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\EnrollmentMusicClasses\AddStudent.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\InstrumentInventories\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\AddToEnsemble.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\LocalMusicians\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\MusicClasses\DeleteStudent.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\PerformancePieces\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Repairs\Complete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Venues\Index.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Pieces\Create.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Pieces\Delete.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Pieces\Details.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Pieces\Edit.g.cshtml.cs
+C:\Users\dinnm1\Desktop\git\smmc\SMMC - Copy\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Pieces\Index.g.cshtml.cs
