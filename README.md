@@ -9,7 +9,7 @@ Built with ASP.NET MVC and SQL Server, this fully functional database applicatio
 
 ## Conceptual Model
 
-![Conceptual ERD](/images/Conceptual_ERD.png)
+![Conceptual ERD](/images/Conceptial_ERD.png)
 
 ## ERD
 
